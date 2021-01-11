@@ -1,7 +1,7 @@
 {
   "name": "poo",
   "version": "1.0.0",
-  "description": "A simple exercise of Objects Orientations Programming\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ded\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CProgramming",
+  "description": "A simple exercise of Objects Oriented Programming",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
